@@ -49,6 +49,15 @@
     <Compile Include="Lab2\CPF.cs" />
     <Compile Include="Lab2\ValidaCPF.cs" />
     <Compile Include="Lab2\ValidaCPFTeste.cs" />
+    <Compile Include="Lab3\PortaEletronica.cs" />
+    <Compile Include="Lab3\ProtaEletronicaTeste.cs" />
+    <Compile Include="Lab3\ProvedorDeHorario.cs" />
+    <Compile Include="Lab3\ProvedorDeHorarioReal.cs" />
+    <Compile Include="Lab3\ProvedorDeHorarioStub.cs" />
+    <Compile Include="Lab4\Interessado.cs" />
+    <Compile Include="Lab4\InteressadoMock.cs" />
+    <Compile Include="Lab4\Produto.cs" />
+    <Compile Include="Lab4\ProdutoTeste.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

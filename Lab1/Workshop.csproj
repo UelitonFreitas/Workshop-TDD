@@ -58,6 +58,8 @@
     <Compile Include="Lab4\InteressadoMock.cs" />
     <Compile Include="Lab4\Produto.cs" />
     <Compile Include="Lab4\ProdutoTeste.cs" />
+    <Compile Include="Lab5\Caixa.cs" />
+    <Compile Include="Lab5\TestaCaixaEletronico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

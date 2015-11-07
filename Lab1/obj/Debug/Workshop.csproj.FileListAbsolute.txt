@@ -5,3 +5,10 @@ c:\users\ueliton\documents\visual studio 2015\Projects\Workshop\Lab1\bin\Debug\n
 c:\users\ueliton\documents\visual studio 2015\Projects\Workshop\Lab1\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
 c:\users\ueliton\documents\visual studio 2015\Projects\Workshop\Lab1\obj\Debug\Lab1.dll
 c:\users\ueliton\documents\visual studio 2015\Projects\Workshop\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\bin\Debug\Lab1.dll
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\bin\Debug\nunit.framework.dll
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\bin\Debug\nunit.framework.xml
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\obj\Debug\Lab1.dll
+C:\Users\Ueliton-PC\Documents\Git\Workshop-TDD\Lab1\obj\Debug\Lab1.pdb

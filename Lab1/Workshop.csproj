@@ -44,6 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extra\Ponto.cs" />
+    <Compile Include="Extra\Retangulo.cs" />
+    <Compile Include="Extra\RetanguloBuilder.cs" />
+    <Compile Include="Extra\RetanguloTeste.cs" />
     <Compile Include="Lab1\Boleto.cs" />
     <Compile Include="Lab1\TesteDeCalculoDeMulta.cs" />
     <Compile Include="Lab2\CPF.cs" />
@@ -60,6 +64,12 @@
     <Compile Include="Lab4\ProdutoTeste.cs" />
     <Compile Include="Lab5\Caixa.cs" />
     <Compile Include="Lab5\TestaCaixaEletronico.cs" />
+    <Compile Include="Lab6\PortaEletronicaBuilder.cs" />
+    <Compile Include="Lab6\PortaEletronica.cs" />
+    <Compile Include="Lab6\ProtaEletronicaTeste.cs" />
+    <Compile Include="Lab6\ProvedorDeHorario.cs" />
+    <Compile Include="Lab6\ProvedorDeHorarioReal.cs" />
+    <Compile Include="Lab6\ProvedorDeHorarioStub.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

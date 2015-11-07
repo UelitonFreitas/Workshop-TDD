@@ -13,10 +13,10 @@ namespace Lab1.Extra
         public Retangulo(Ponto p1, Ponto p2)
         {
        
-            this._pontoInferiorEsquerdo = p1;
-            this._pontoSuperiorDireito = p2;
-            this._pontoSuperiorEsquerdo = new Ponto(p1.x, p2.y);
-            this._pontoInferiorDireito = new Ponto(p2.x, p1.y);
+            _pontoInferiorEsquerdo = p1;
+            _pontoSuperiorDireito = p2;
+            _pontoSuperiorEsquerdo = new Ponto(p1.x, p2.y);
+            _pontoInferiorDireito = new Ponto(p2.x, p1.y);
 
         }
 
